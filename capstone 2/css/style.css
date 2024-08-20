@@ -1,0 +1,84 @@
+#title {
+    display: flex;
+    
+    
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    
+}
+
+.title-text {
+    
+    background:
+    repeating-linear-gradient( -45deg,#57A6A1, #577B8D 1px,aliceblue 1px);
+    text-align: center;
+}
+
+.sub-heading {
+    
+    font-family: fantasy;
+    color: aliceblue;
+}
+
+h1 {
+    color: aliceblue;
+    padding-top: 50px;
+    font-family: fantasy;
+}
+#title > img {
+    display: flex;
+    width: auto;
+    height: auto;
+}
+.pro {
+    text-decoration: underline;
+}
+
+.artic {
+    height: 810px;
+    
+}
+.forex-image {
+    background-image: url(../images/Forex-1\ \(1\).webp);
+    width: fit-content;
+}
+.football-image {
+    background-image: url(../images/IMG_2858\ 2.jpg);
+    
+
+}
+.textbox1 {
+    background-color: #57A6A1;
+}
+
+.image2 {
+    
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    margin-left: 100px;
+   
+}
+.contact {
+    display: flex;
+    
+}
+
+.closingtext {
+    text-align: center;
+    padding-top: 5%;
+    margin-left: 5%;
+    
+}
+.subheading2 {
+    margin-left: 58px;
+    font-family: "Merriweather", serif;
+    
+}
+p {
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    font-family: "Merriweather", serif;
+}
